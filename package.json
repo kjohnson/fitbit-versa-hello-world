@@ -1,0 +1,20 @@
+{
+  "fitbit": {
+    "appUUID": "efb2a305-dcd5-4e71-bf5b-8268600c6f35",
+    "appType": "clockface",
+    "appDisplayName": "Hello World",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Hello World"
+      }
+    }
+  }
+}

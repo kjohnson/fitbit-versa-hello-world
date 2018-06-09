@@ -1,0 +1,5 @@
+<svg class="background">
+  <text id="myLabel" />
+  <text id="greeting" />
+  <text id="hrLabel" />
+</svg>
